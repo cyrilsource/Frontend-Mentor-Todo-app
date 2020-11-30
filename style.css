@@ -449,7 +449,7 @@ h1 {
 .circle.toggle-all:checked:before {
   position: absolute;
   content: url(images/icon-check.svg);
-  top: 2px;
+  top: 6px;
   left: 6px;
 }
 .circle.toggle-all:checked.circle {
