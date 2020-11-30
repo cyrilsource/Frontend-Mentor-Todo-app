@@ -299,7 +299,7 @@ input[type="button"] {
 .box .list-group > li.completed .circle:before {
   position: absolute;
   content: url(images/icon-check.svg);
-  top: 2px;
+  top: 6px;
   left: 6px;
 }
 .box .footer {
